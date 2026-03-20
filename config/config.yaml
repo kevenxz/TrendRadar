@@ -77,6 +77,16 @@ platforms:
       name: "抖音"
     - id: "zhihu"
       name: "知乎"
+    - id: "ithome"
+      name: "IT之家"
+    - id: "jin10"
+      name: "金十数据"
+    - id: "fastbull"
+      name: "FastBull"
+    - id: "mktnews"
+      name: "市场资讯"
+    - id: "xueqiu"
+      name: "雪球"
 
 
 
